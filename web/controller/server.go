@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/mhsanaei/3x-ui/v2/web/global"
-	"github.com/mhsanaei/3x-ui/v2/web/service"
+	"github.com/kingarthurqi/3x-ui/v2/web/global"
+	"github.com/kingarthurqi/3x-ui/v2/web/service"
 
 	"github.com/gin-gonic/gin"
 )
